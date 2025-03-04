@@ -11,3 +11,4 @@ tiktoken==0.7.0
 aioboto3==13.2.0
 ollama==0.3.3
 openai==1.53.0
+nano-vectordb==0.0.4.3
