@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;SKYPOS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"SkyPos is a payment acceptance solution that includes a mobile app and a web portal, offering features like QR code/contactless payment, store management, and transaction reconciliation."&lt;SEP&gt;"SkyPos is a payment platform that accepts contactless Visa, Master, and Napas cards, as well as Apple Pay, Samsung Pay, Garmin Pay, and payment wristbands. It offers card and QR code payment options for customers at stores."&lt;SEP&gt;"SkyPos is a service that offers payment solutions, including QR code generation and acceptance of various card types."&lt;SEP&gt;"SkyPos is an entity that provides a system and account required to log into Merchant Portal. Merchants and employees need SkyPos accounts to access the Merchant Portal."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-299b71c19926597072a447cf0da24c34&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;HDBANK&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"HDBank is a bank that offers the SkyPos payment acceptance solution, partnering with Galaxy Pay. They provide accounts, customer service, and handle service contracts."&lt;SEP&gt;"HDBank is a bank that provides customer service support with the hotline 1900 60 60. It also has a Trung tâm Thẻ (Card Center)."&lt;SEP&gt;"HDBank is a bank, and its customer service hotline is provided for support related to payment issues."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;GALAXY PAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Galaxy Pay is a company that provides customer service support with the hotline 1900 638 021. It also has a Khối Kinh doanh (Business Division)."&lt;SEP&gt;"Galaxy Pay is a partner organization with HDBank in offering the SkyPos payment acceptance solution. They provide customer service and handle service contracts."&lt;SEP&gt;"Galaxy Pay is a payment service provider, and its customer service hotline is provided."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;PHÁP LUẬT VIỆT NAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Pháp luật Việt Nam refers to the legal regulations in Vietnam, which businesses using SkyPos must comply with."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;THẺ&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"'Thẻ' refers to payment cards used for transactions through SkyPos, including contactless cards using NFC technology."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;MÃ QR&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"'Mã QR' refers to QR codes used for payment transactions through SkyPos."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;SKYPOINT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"'Skypoint' refers to a type of points that can be used for payment transactions through SkyPos."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;NFC&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"NFC (Near Field Communication) is the technology that enables contactless payments via cards on SkyPos."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;GOOGLE PLAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Google Play is the app store required by SkyPos to be supported in the device"&lt;SEP&gt;"Google Play is the app store where the SkyPos by HDBank application can be downloaded."</data>
+  <data key="d2">chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;HOTLINE CSKH CỦA GALAXY PAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Hotline CSKH của Galaxy Pay is the customer service hotline for Galaxy Pay, providing support for SkyPos users."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;HOTLINE CSKH CỦA HDBANK&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Hotline CSKH của HDBank is the customer service hotline for HDBank, providing support for SkyPos users."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;KHDN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"KHDN refers to corporate customers of HDBank."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;KHCN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"KHCN refers to individual customers of HDBank."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;VAT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"VAT refers to Value Added Tax, which is applicable to the SkyPos service fees."</data>
+  <data key="d2">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</node>
+<node id="&quot;NAPAS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Napas is a domestic payment network in Vietnam whose contactless cards are accepted by SkyPos."&lt;SEP&gt;"Napas is an organization associated with domestic payment cards in Vietnam."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;VISA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Visa is a major credit card company whose contactless cards are accepted by SkyPos."&lt;SEP&gt;"Visa is a major international payment card company."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;MASTERCARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Mastercard is a major international payment card company."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;JCB&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JCB is an international payment card company."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;VN&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"VN refers to Vietnam, the territory where the international cards are issued."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;APPLE PAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Apple Pay is a mobile payment service that SkyPos supports."&lt;SEP&gt;"Apple Pay is a mobile payment service that is supported by SkyPos."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;SAMSUNG PAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Samsung Pay is a mobile payment service that SkyPos supports."&lt;SEP&gt;"Samsung Pay is a mobile payment service that is supported by SkyPos."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;GARMIN PAY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Garmin Pay is a mobile payment service that SkyPos supports."&lt;SEP&gt;"Garmin Pay is a mobile payment service that is supported by SkyPos."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;THANH TOÁN CHÍNH PHỦ&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Thanh toán chính phủ refers to government payments which have a transaction fee of 0.20% for thẻ nội địa, 0.90% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 0.90% for Napas, 1.10% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;TAXI/ LIMOUSINE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Taxi/ Limousine services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;XĂNG DẦU&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Gasoline services which have a transaction fee of 0.73% for thẻ nội địa, 0.80% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 0.80% for Napas, 0.80% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ VẬN TẢI CÔNG CỘNG&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Public transportation services which have a transaction fee of 0.20% for thẻ nội địa, 1.10% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 1.10% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ TIỆN ÍCH (ĐIỆN, NƯỚC, GAS)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Utility services (electricity, water, gas) which have a transaction fee of 0.73% for thẻ nội địa, 1.10% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 1.10% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;PHÍ CẦU ĐƯỜNG&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Toll fees which have a transaction fee of 0.73% for thẻ nội địa, 1.10% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 1.10% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ VIỄN THÔNG&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Telecommunication services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ TRUYỀN HÌNH CÁP, VỆ TINH, RADIO&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Cable TV, satellite, radio services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;SIÊU THỊ&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Supermarkets which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;CỬA HÀNG TIỆN LỢI, CỬA HÀNG THỰC PHẨM CHỨC NĂNG (SÂM, YẾN, ĐÔNG TRÙNG HẠ THẢO…)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Convenience stores, functional food stores (ginseng, bird's nest, cordyceps...) which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;CỬA HÀNG THỨC ĂN NHANH, CỬA HÀNG GIẢI KHÁT, QUÁN CÀ PHÊ (KHÔNG BÁN BIA, RƯỢU)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Fast food stores, beverage stores, cafes (no beer, wine) which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;TRƯỜNG HỌC&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Schools which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ VẬN TẢI KHÁC (ĐƯA ĐÓN Ở SÂN BAY, CÁP TREO…)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Other transport services (airport pick-up, cable car...) which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ VẬN TẢI HÀNH KHÁCH BẰNG ĐƯỜNG SẮT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Passenger transport by rail which have a transaction fee of 0.73% for thẻ nội địa, 1.10% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 1.10% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;MẠNG MÁY TÍNH/ DỊCH VỤ THÔNG TIN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Computer networks/Information services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 1.30% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;RẠP CHIẾU PHIM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Movie theaters which have a transaction fee of 0.73% for thẻ nội địa, 2.00% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.10% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ Y TẾ/ CHĂM SÓC SỨC KHỎE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Medical services/ Healthcare which have a transaction fee of 0.73% for thẻ nội địa, 2.00% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 1.30% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;DỊCH VỤ QUẢN LÝ BẤT ĐỘNG SẢN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Real estate management services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 2.00% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;BẢO HIỂM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Insurance services which have a transaction fee of 0.73% for thẻ nội địa, 1.30% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 2.00% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;CỬA HÀNG ĐỒ GIA DỤNG/ ĐIỆN TỬ&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Household appliances/Electronics stores which have a transaction fee of 0.73% for thẻ nội địa, 1.70% for Thẻ Quốc tế phát hành trong lãnh thổ VN, 2.00% for Napas, 2.00% for Visa/Mastercard/JCB and 2.40% for Thẻ Quốc tế phát hành ngoài lãnh thổ VN."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;THẺ NỘI ĐỊA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Domestic cards in Vietnam. Transaction fees vary depending on the industry."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;THẺ QUỐC TẾ PHÁT HÀNH TRONG LÃNH THỔ VN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"International cards issued in Vietnam. Transaction fees vary depending on the industry."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;THẺ QUỐC TẾ PHÁT HÀNH NGOÀI LÃNH THỔ VN&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"International cards issued outside of Vietnam. Transaction fees vary depending on the industry."</data>
+  <data key="d2">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</node>
+<node id="&quot;MASTER&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Mastercard is a major credit card company whose contactless cards are accepted by SkyPos."</data>
+  <data key="d2">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;VIỆT NAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Việt Nam is the country where SkyPos is operating, as indicated by the requirement to share device location according to Vietnamese law."</data>
+  <data key="d2">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;CSKH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"CSKH stands for Customer Service which can be contacted via hotline."</data>
+  <data key="d2">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;ANDROID 8.1&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Android 8.1 is the minimum Android version required to use the SkyPos App"</data>
+  <data key="d2">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</node>
+<node id="&quot;NHÂN VIÊN&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Nhân viên refers to employees who can be granted different access levels to store revenue information and can log in on multiple devices with their accounts. Their accounts should be locked when they leave the job."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34</data>
+</node>
+<node id="&quot;MERCHANT PORTAL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Merchant Portal is a management system that SkyPos provides where merchants can manage their information including transaction details, TID management, and employee access permissions at the store."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34</data>
+</node>
+<node id="&quot;KHÁCH HÀNG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Khách hàng refers to customers who can receive refunds, with the refund processing time dependent on their card issuing bank."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34</data>
+</node>
+<node id="&quot;CHỦ CỬA HÀNG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Chủ cửa hàng refers to store owners who can view the revenue of all their stores and manage employee access permissions."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34</data>
+</node>
+<node id="&quot;CỬA HÀNG&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Cửa hàng refers to stores where employees are assigned and can view revenue data based on assigned permissions. Stores can be closed, leading to account termination."</data>
+  <data key="d2">chunk-299b71c19926597072a447cf0da24c34</data>
+</node>
+<edge source="&quot;SKYPOS&quot;" target="&quot;HDBANK&quot;">
+  <data key="d3">16.0</data>
+  <data key="d4">"HDBank provides customer service support for SkyPos users."&lt;SEP&gt;"HDBank provides the SkyPos payment acceptance solution."</data>
+  <data key="d5">"customer support, banking service"&lt;SEP&gt;"service provider, payment solution"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;GALAXY PAY&quot;">
+  <data key="d3">15.0</data>
+  <data key="d4">"Galaxy Pay partners with HDBank to offer the SkyPos payment acceptance solution."&lt;SEP&gt;"Galaxy Pay provides customer service support for SkyPos users."</data>
+  <data key="d5">"customer support, payment service"&lt;SEP&gt;"partnership, payment solution"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;THẺ&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts payments made via 'Thẻ'."</data>
+  <data key="d5">"payment method, technology"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;MÃ QR&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts payments made via 'Mã QR'."</data>
+  <data key="d5">"payment method, technology"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;SKYPOINT&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts payments made via 'Skypoint'."</data>
+  <data key="d5">"payment method, loyalty program"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;NFC&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"SkyPos utilizes NFC technology to enable contactless payments."</data>
+  <data key="d5">"technology, payment processing"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;GOOGLE PLAY&quot;">
+  <data key="d3">15.0</data>
+  <data key="d4">"SkyPos requires the devices to support Google Play."&lt;SEP&gt;"The SkyPos app can be downloaded from Google Play."</data>
+  <data key="d5">"application distribution, technology"&lt;SEP&gt;"technology requirement, app support"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2&lt;SEP&gt;chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;VAT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"VAT is applicable to SkyPos service fees."</data>
+  <data key="d5">"taxation, service fees"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;NAPAS&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"SkyPos accepts Napas cards as a form of payment."&lt;SEP&gt;"SkyPos accepts Napas cards for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;VISA&quot;">
+  <data key="d3">17.0</data>
+  <data key="d4">"SkyPos accepts Visa cards as a form of payment."&lt;SEP&gt;"SkyPos accepts Visa cards for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934&lt;SEP&gt;chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;MASTERCARD&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos accepts Mastercard cards for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;JCB&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos accepts JCB cards for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;THANH TOÁN CHÍNH PHỦ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for government payment transactions."</data>
+  <data key="d5">"payment processing, government services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;TAXI/ LIMOUSINE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for Taxi/ Limousine service transactions."</data>
+  <data key="d5">"payment processing, transportation services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;XĂNG DẦU&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for gasoline service transactions."</data>
+  <data key="d5">"payment processing, fuel services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ VẬN TẢI CÔNG CỘNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for public transportation service transactions."</data>
+  <data key="d5">"payment processing, public services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ TIỆN ÍCH (ĐIỆN, NƯỚC, GAS)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for utility service transactions."</data>
+  <data key="d5">"payment processing, utility services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;PHÍ CẦU ĐƯỜNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for toll fee transactions."</data>
+  <data key="d5">"payment processing, toll services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ VIỄN THÔNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos"</data>
+  <data key="d5">"is used for telecommunication service transactions."</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ TRUYỀN HÌNH CÁP, VỆ TINH, RADIO&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for cable TV, satellite, radio service transactions."</data>
+  <data key="d5">"payment processing, entertainment services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;SIÊU THỊ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for supermarket transactions."</data>
+  <data key="d5">"payment processing, retail services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;CỬA HÀNG TIỆN LỢI, CỬA HÀNG THỰC PHẨM CHỨC NĂNG (SÂM, YẾN, ĐÔNG TRÙNG HẠ THẢO…)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for convenience store, functional food store transactions."</data>
+  <data key="d5">"payment processing, retail services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;CỬA HÀNG THỨC ĂN NHANH, CỬA HÀNG GIẢI KHÁT, QUÁN CÀ PHÊ (KHÔNG BÁN BIA, RƯỢU)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for fast food store, beverage store, cafe transactions."</data>
+  <data key="d5">"payment processing, food services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;TRƯỜNG HỌC&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for school transactions."</data>
+  <data key="d5">"payment processing, educational services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ VẬN TẢI KHÁC (ĐƯA ĐÓN Ở SÂN BAY, CÁP TREO…)&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for other transport service transactions."</data>
+  <data key="d5">"payment processing, transport services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ VẬN TẢI HÀNH KHÁCH BẰNG ĐƯỜNG SẮT&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for passenger transport by rail transactions."</data>
+  <data key="d5">"payment processing, transportation services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;MẠNG MÁY TÍNH/ DỊCH VỤ THÔNG TIN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for computer network/information service transactions."</data>
+  <data key="d5">"payment processing, information services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;RẠP CHIẾU PHIM&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for movie theater transactions."</data>
+  <data key="d5">"payment processing, entertainment services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ Y TẾ/ CHĂM SÓC SỨC KHỎE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for medical service/healthcare transactions."</data>
+  <data key="d5">"payment processing, healthcare services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;DỊCH VỤ QUẢN LÝ BẤT ĐỘNG SẢN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for real estate management service transactions."</data>
+  <data key="d5">"payment processing, real estate services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;BẢO HIỂM&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for insurance service transactions."</data>
+  <data key="d5">"payment processing, insurance services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;CỬA HÀNG ĐỒ GIA DỤNG/ ĐIỆN TỬ&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos is used for household appliance/electronics store transactions."</data>
+  <data key="d5">"payment processing, retail services"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;THẺ NỘI ĐỊA&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos accepts thẻ nội địa for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;THẺ QUỐC TẾ PHÁT HÀNH TRONG LÃNH THỔ VN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos accepts Thẻ Quốc tế phát hành trong lãnh thổ VN for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;THẺ QUỐC TẾ PHÁT HÀNH NGOÀI LÃNH THỔ VN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos accepts Thẻ Quốc tế phát hành ngoài lãnh thổ VN for payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-be24391a2c48b1c419e691ca8bac6934</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;MASTER&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts Master cards as a form of payment."</data>
+  <data key="d5">"payment processing, card acceptance"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;APPLE PAY&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts Apple Pay as a form of payment."</data>
+  <data key="d5">"payment processing, mobile payment"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;SAMSUNG PAY&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts Samsung Pay as a form of payment."</data>
+  <data key="d5">"payment processing, mobile payment"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;GARMIN PAY&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SkyPos accepts Garmin Pay as a form of payment."</data>
+  <data key="d5">"payment processing, mobile payment"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;VIỆT NAM&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos's operation is subject to Vietnamese laws and regulations."</data>
+  <data key="d5">"legal compliance, regulation"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;CSKH&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The text provides multiple Customer Service hotline numbers for SkyPos users."</data>
+  <data key="d5">"customer service, technical support"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;ANDROID 8.1&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"SkyPos requires devices to have Android 8.1 or later."</data>
+  <data key="d5">"technology requirement, app support"</data>
+  <data key="d6">chunk-dfb2117509b62dbf48f246796a5fe5f2</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;MERCHANT PORTAL&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"A SkyPos account is required to log into the Merchant Portal, linking the two systems."</data>
+  <data key="d5">"system access, account requirement"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;SKYPOS&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"SkyPos account is used by the employees to log into the application to access store information."</data>
+  <data key="d5">"Application access, store information"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;PHÁP LUẬT VIỆT NAM&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"HDBank operates within the legal framework of Vietnam and requires businesses to comply with its regulations."</data>
+  <data key="d5">"legal compliance, banking operations"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;HOTLINE CSKH CỦA HDBANK&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"HDBank provides customer support through their customer service hotline."</data>
+  <data key="d5">"customer support, communication"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;KHDN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"HDBank provides services to corporate customers (KHDN)."</data>
+  <data key="d5">"customer segment, banking service"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;KHCN&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"HDBank provides services to individual customers (KHCN)."</data>
+  <data key="d5">"customer segment, banking service"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;NHÂN VIÊN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"HDBank provides support for managing employee accounts, including adding and locking accounts."</data>
+  <data key="d5">"employee management, customer support"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;HDBANK&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"HDBank provides customer support related to managing store operations and service termination."</data>
+  <data key="d5">"operational support, service termination"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;GALAXY PAY&quot;" target="&quot;HOTLINE CSKH CỦA GALAXY PAY&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"Galaxy Pay provides customer support through their customer service hotline."</data>
+  <data key="d5">"customer support, communication"</data>
+  <data key="d6">chunk-555f0a3dcccf33ca231bf278074390c3</data>
+</edge>
+<edge source="&quot;GALAXY PAY&quot;" target="&quot;NHÂN VIÊN&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Galaxy Pay provides support for managing employee accounts, including adding and locking accounts."</data>
+  <data key="d5">"employee management, customer support"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;GALAXY PAY&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Galaxy Pay provides customer support related to managing store operations and service termination."</data>
+  <data key="d5">"operational support, service termination"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;NHÂN VIÊN&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Employees are assigned permissions to access information and process payments at specific stores."</data>
+  <data key="d5">"access permissions, store assignment"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;MERCHANT PORTAL&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The Merchant Portal allows managing TID's, granting permissions to employee's, at the store."</data>
+  <data key="d5">"store management, access"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;KHÁCH HÀNG&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Customers receive refunds for transactions made at the store, with the refund processed by the store and financial institutions."</data>
+  <data key="d5">"refund processing, transactions"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+<edge source="&quot;CHỦ CỬA HÀNG&quot;" target="&quot;CỬA HÀNG&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The store owner owns and manages multiple stores, with access to revenue information for all owned stores."</data>
+  <data key="d5">"ownership, management"</data>
+  <data key="d6">chunk-299b71c19926597072a447cf0da24c34</data>
+</edge>
+</graph></graphml>
