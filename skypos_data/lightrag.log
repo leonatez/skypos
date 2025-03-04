@@ -109,3 +109,44 @@
 2025-03-05 05:38:18,730 - lightrag - INFO - Load KV full_docs with 1 data
 2025-03-05 05:38:18,730 - lightrag - INFO - Load KV text_chunks with 4 data
 2025-03-05 05:38:18,732 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 05:57:39,252 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 05:57:39,252 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 05:57:39,253 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 05:57:39,253 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 05:57:39,255 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:02:27,624 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:02:27,624 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:02:27,625 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:02:27,625 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:02:27,627 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:02:43,172 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:02:43,173 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:02:43,175 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:02:43,177 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:02:43,184 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:02:43,189 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 06:02:47,730 - lightrag - INFO - Local query uses 5 entites, 5 relations, 1 text units
+2025-03-05 06:02:50,942 - lightrag - INFO - Global query uses 6 entites, 5 relations, 2 text units
+2025-03-05 06:02:54,364 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:02:54,382 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:02:54,390 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:02:54,396 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:02:54,416 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:07:24,020 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:07:24,020 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:07:24,021 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:07:24,021 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:07:24,024 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:07:44,087 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:07:44,089 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:07:44,090 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:07:44,092 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:07:44,098 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges
+2025-03-05 06:07:44,103 - lightrag - INFO - Creating a new event loop in main thread.
+2025-03-05 06:07:54,478 - lightrag - INFO - Local query uses 5 entites, 45 relations, 3 text units
+2025-03-05 06:07:56,987 - lightrag - INFO - Global query uses 6 entites, 5 relations, 3 text units
+2025-03-05 06:08:00,282 - lightrag - INFO - Logger initialized for working directory: ./skypos_data
+2025-03-05 06:08:00,284 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-03-05 06:08:00,285 - lightrag - INFO - Load KV full_docs with 1 data
+2025-03-05 06:08:00,285 - lightrag - INFO - Load KV text_chunks with 4 data
+2025-03-05 06:08:00,287 - lightrag - INFO - Loaded graph from ./skypos_data/graph_chunk_entity_relation.graphml with 54 nodes, 57 edges

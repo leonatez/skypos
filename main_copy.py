@@ -1,5 +1,5 @@
 import os
-import torch
+# import torch
 import numpy as np
 import google.generativeai as genai
 from google.generativeai import types
@@ -11,7 +11,7 @@ import streamlit as st
 from datetime import datetime
 from unstructured.partition.auto import partition
 
-torch.classes.__path__ = []
+# torch.classes.__path__ = []
 
 # =======================SETTING UP===============================
 
@@ -27,14 +27,14 @@ if not GOOGLE_API_KEY:
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-2.0-flash-exp")
 
-# WORKING_DIR = "./skypos_data"
 
-# if os.path.exists(WORKING_DIR):
-#     import shutil
+if not os.path.exists(WORKING_DIR):
+    os.mkdir(WORKING_DIR)
+    elements = partition(filename="SkyPos_FAQ.docx")
+    text = "\n".join([el.text for el in elements])
+    print("======> Unstructured Text:",text)
+    rag.insert(text)
 
-#     shutil.rmtree(WORKING_DIR)
-
-# os.mkdir(WORKING_DIR)
 
 
 # System Prompt (for internal context only — not shown to user)
@@ -85,10 +85,7 @@ rag = LightRAG(
     ),
 )
 
-# elements = partition(filename="SkyPos_FAQ.docx")
-# text = "\n".join([el.text for el in elements])
-# print("======> Unstructured Text:",text)
-# rag.insert(text)
+
 
 # ========================STREAMLIT===============================
 
@@ -140,7 +137,7 @@ Hãy trả lời câu hỏi dựa trên thông tin từ tài liệu. Nếu khôn
 
 # ====== Main App ======
 def main():
-    st.title("💬 Hỗ trợ SkyPOS - LightRAG x Gemini 2.0 Flash")
+    st.title("💬 Hỗ trợ SkyPOS")
 
     init_chat_history()
 
